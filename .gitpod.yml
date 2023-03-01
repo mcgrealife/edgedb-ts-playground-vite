@@ -10,6 +10,6 @@ tasks:
   - name: install-edgedb-cli
     command: curl --proto '=https' --tlsv1.2 -sSf https://sh.edgedb.com | sh -s -- -y -v ;
   - name: initialize edgedb project
-    command: edgedb project init --non-interactive;
+    command: edgedb project init --non-interactive
 
 
