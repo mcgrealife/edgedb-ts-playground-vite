@@ -4,4 +4,4 @@
 
 
 
-[Edit on gitpod](gitpod.io/#https://github.com/mcgrealife/edgedb-ts-playground-vite/tree/main)
+### gitpod.io/#https://github.com/mcgrealife/edgedb-ts-playground-vite/tree/main
