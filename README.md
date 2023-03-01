@@ -5,3 +5,11 @@
 
 
 ### gitpod.io/#https://github.com/mcgrealife/edgedb-ts-playground-vite/tree/main
+
+
+edit dbschema/default.esdl
+
+`edgedb migration create`
+`edgedb migration apply`
+
+`edgedb ui`
